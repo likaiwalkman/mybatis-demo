@@ -5,7 +5,7 @@
 <configuration>
 
     <!-- 读取数据连接参数 -->
-    <properties resource="mysql.properties"/>
+    <properties resource="databaseConfig/mysql.properties"/>
 
     <settings>
         <setting name="cacheEnabled" value="true"/>
